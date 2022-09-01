@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JebrcLDm4yYQgDd9wpembr/TR0+QeVsoVuwSXlztqM5jsABFfI8uDw7o10x5HF/+J9lfG9yQXGZrAqnvVQS4XA==",
+  "success": true,
+  "projectFilePath": "/home/lptv/Música/Estudos/csharp/proj1/proj1.csproj",
+  "expectedPackageFiles": [
+    "/home/lptv/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

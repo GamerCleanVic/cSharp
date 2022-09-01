@@ -1,0 +1,15 @@
+/home/lptv/Música/Estudos/csharp/proj1/bin/Debug/net6.0/proj1
+/home/lptv/Música/Estudos/csharp/proj1/bin/Debug/net6.0/proj1.deps.json
+/home/lptv/Música/Estudos/csharp/proj1/bin/Debug/net6.0/proj1.runtimeconfig.json
+/home/lptv/Música/Estudos/csharp/proj1/bin/Debug/net6.0/proj1.dll
+/home/lptv/Música/Estudos/csharp/proj1/bin/Debug/net6.0/ref/proj1.dll
+/home/lptv/Música/Estudos/csharp/proj1/bin/Debug/net6.0/proj1.pdb
+/home/lptv/Música/Estudos/csharp/proj1/obj/Debug/net6.0/proj1.csproj.AssemblyReference.cache
+/home/lptv/Música/Estudos/csharp/proj1/obj/Debug/net6.0/proj1.GeneratedMSBuildEditorConfig.editorconfig
+/home/lptv/Música/Estudos/csharp/proj1/obj/Debug/net6.0/proj1.AssemblyInfoInputs.cache
+/home/lptv/Música/Estudos/csharp/proj1/obj/Debug/net6.0/proj1.AssemblyInfo.cs
+/home/lptv/Música/Estudos/csharp/proj1/obj/Debug/net6.0/proj1.csproj.CoreCompileInputs.cache
+/home/lptv/Música/Estudos/csharp/proj1/obj/Debug/net6.0/proj1.dll
+/home/lptv/Música/Estudos/csharp/proj1/obj/Debug/net6.0/ref/proj1.dll
+/home/lptv/Música/Estudos/csharp/proj1/obj/Debug/net6.0/proj1.pdb
+/home/lptv/Música/Estudos/csharp/proj1/obj/Debug/net6.0/proj1.genruntimeconfig.cache

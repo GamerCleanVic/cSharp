@@ -1,0 +1,7 @@
+using System;
+
+class MeuPrimeiroPrograma{
+	static void Main(string[] args){
+		Console.WriteLine("Diogo Costa Curso C#");
+	}
+}
