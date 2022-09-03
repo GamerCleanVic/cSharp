@@ -7,4 +7,4 @@ ESTUDANDO C SHARP
 <hr>
 
 <pre style="border-raius: 12px; text-align: justify; font-size: 1.1rem; margin-top: ;">
-Este repositório e para guardar os estudo de C Sharp que estivermos nos divertindo.</pre>
+Este repositório é para guardar os estudo de C Sharp que estivermos nos divertindo.</pre>
